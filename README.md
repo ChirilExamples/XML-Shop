@@ -1,10 +1,10 @@
 # TestProject
 
-Project created in MVVM architecture in XML/fragments, following the latest techniques.
+Project created in MVVM architecture in XML/fragments, following the clean architecture.
 
 Created using Dependency Injection (Dagger/Hilt), Coroutines, Glide (Images), encrypted Room local storage (also used for filters as the API does not allow it).
 
-Tested using Espresso, Jacoco as well as tested for memory leaks with LeakCanary.
+Tested using Espresso, Jacoco, JUnit and Mockito as well as tested for memory leaks with LeakCanary.
 
 ![](all_items_recylcer.png)
 ![](under_10_filter.png)
