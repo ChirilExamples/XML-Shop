@@ -1,6 +1,6 @@
 # TestProject
 
-Project created in MVVM architecture in XML/fragments, following the clean architecture for LBG.
+Project created in MVVM architecture in XML/fragments, following the clean architecture.
 
 Created using Dependency Injection (Dagger/Hilt), Coroutines, Glide (Images), encrypted Room local storage (also used for filters as the API does not allow it).
 
